@@ -1,8 +1,10 @@
 # free-api
-聚合目前搜集到的所有免费api，希望能帮助到广大的开发者们！<br/>
+整理目前搜集到的所有免费api，希望能帮助到广大的开发者们！<br/>
 如果对您有帮助，感谢小伙伴打赏一杯咖啡！<br/>
 若有其他api需求，也欢迎私聊！ wx:cqwanhl
 <img src='zanshang.jpg'>
+2022年1月更新免费接口
+1.取N个工作日前/后日期<a href='http://www.liangmlk.cn/Api-detail-id-590.html'>
 
 <a href='http://www.liangmlk.cn/Api-detail-id-15.html'>IP地址/域名归属地查询</a><br/>
 <a href='http://www.liangmlk.cn/Api-detail-id-36.html'>手机号码归属地查询</a><br/>
